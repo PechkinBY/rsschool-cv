@@ -23,4 +23,5 @@ My experience was a courses projects and a diploma in colledge and self-educatio
 * (2019-2023) Belarusian state university of informatics and radioelectronics
 
 ### English 
-I've been studying english for several years in courses. Now i'm studying in "International house" but before i was attending "Streamline". I've pass my English test on EPAM web-site for B1+ level
+I've been studying english for several years in courses. I've pass my English test on EPAM web-site for B1+ level
+* International House B2 setificate
