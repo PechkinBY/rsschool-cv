@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.container {
+    max-width: 900px;
+    padding: 20px 50px;
+    margin: auto;
+    position: relative;
+}
+h2 {
+    font-size: 17px;
+    font-weight: 600;
+}
+
+.list {
+    margin-top: 30px;
+}
+.list__item {
+    margin-left: 30px;
+}
+.list__link {
+    color: #000;   
+}
+.block {
+    margin-top: 30px;
+}
+.block__text{
+    text-align: justify;
+}
+.block .list {
+    margin-top: 10px;
+}
+.img {
+    width: 100px;
+    position: absolute;
+    right: 50px;
+}
